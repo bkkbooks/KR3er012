@@ -1,0 +1,622 @@
+canonical_identifier: bkk:krp/KR3er012/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er012/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華氏中藏經
+  identifiers:
+    krp: KR3er012
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat06100
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er012.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3er012_000-jc.yaml, hash: 'sha256:c8302c489c4daf35515f4024628da8ad625e68873e905f50f1194d1f1c2fb8fe'}
+  - {seq: 1, filename: KR3er012_001-jc.yaml, hash: 'sha256:af2bac320de170b320f6050629f96997f087f55c4adc82b53911593941ea73fd'}
+  - {seq: 2, filename: KR3er012_002-jc.yaml, hash: 'sha256:567822e32d841189d0c184363929a55e55794c833ec58f35ae8a4f5aab81c0be'}
+  - {seq: 3, filename: KR3er012_003-jc.yaml, hash: 'sha256:fa8afb0ba09d03286a1664c30579e17bc59290965778158c40405304041585f0'}
+  - {seq: 0, filename: KR3er012_000-jc.yaml, hash: 'sha256:b898cf742b74fac68f39718140a5a3c8a64351b266fea95d3627ac085ce8cf46'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er012_000-jc.markers.yaml, hash: 'sha256:25710b641e8881b1e77caa8e4c4e9a790c73d9e50d743511b590cdf75b21fa1f'}
+  - {seq: 1, role: markers, filename: assets/KR3er012_001-jc.markers.yaml, hash: 'sha256:1363758ecc7401f58c9e44122d1dffd6c6ac582b854eda5e6ebf066459d32617'}
+  - {seq: 2, role: markers, filename: assets/KR3er012_002-jc.markers.yaml, hash: 'sha256:6791ca0b20577dea08c1200d682dc1c5497623fadbc6cf3895c256cdf372834c'}
+  - {seq: 3, role: markers, filename: assets/KR3er012_003-jc.markers.yaml, hash: 'sha256:71da591b2ebc71f10f14f849710e36e89e4d8b17fe8199b07652014c2ae6d737'}
+  - {seq: 0, role: markers, filename: assets/KR3er012_000-jc.markers.yaml, hash: 'sha256:25710b641e8881b1e77caa8e4c4e9a790c73d9e50d743511b590cdf75b21fa1f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er012_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 620
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9801
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 397
+  label: 人法於天地論第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d3
+    span:
+    - body
+    - 397
+    - 918
+  label: 陰陽大要調神論第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d4
+    span:
+    - body
+    - 918
+    - 1168
+  label: 生成論第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d5
+    span:
+    - body
+    - 1168
+    - 1363
+  label: 陽厥論第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d6
+    span:
+    - body
+    - 1363
+    - 1524
+  label: 陰厥論第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d7
+    span:
+    - body
+    - 1524
+    - 1659
+  label: 陰陽痞格論第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d8
+    span:
+    - body
+    - 1659
+    - 2010
+  label: 寒熱論第七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d9
+    span:
+    - body
+    - 2010
+    - 2505
+  label: 虛實大要論第八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d10
+    span:
+    - body
+    - 2505
+    - 2663
+  label: 上下不寧論第九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d11
+    span:
+    - body
+    - 2663
+    - 2848
+  label: 脈要論第十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d12
+    span:
+    - body
+    - 2848
+    - 2947
+  label: 五色一作絕脈論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d13
+    span:
+    - body
+    - 2947
+    - 3310
+  label: 脈病外內證決論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d14
+    span:
+    - body
+    - 3310
+    - 3452
+  label: 生死要論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d15
+    span:
+    - body
+    - 3452
+    - 3546
+  label: 病有災怪論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d16
+    span:
+    - body
+    - 3546
+    - 3726
+  label: 水法有六論第十五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d17
+    span:
+    - body
+    - 3726
+    - 3937
+  label: 火法有五論第十六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d18
+    span:
+    - body
+    - 3937
+    - 4492
+  label: 風中有五生死論第十七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d19
+    span:
+    - body
+    - 4492
+    - 4753
+  label: 績聚癥瘕雜蟲論第十八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d20
+    span:
+    - body
+    - 4753
+    - 4990
+  label: 勞傷論第十九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d21
+    span:
+    - body
+    - 4990
+    - 5160
+  label: 傳屍論第二十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d22
+    span:
+    - body
+    - 5160
+    - 5249
+  label: 論五臟六腑虛實寒熱生死逆順之法第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d23
+    span:
+    - body
+    - 5249
+    - 5719
+  label: 論肝臟虛實寒熱生死逆順脈證之法第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d24
+    span:
+    - body
+    - 5719
+    - 5953
+  label: 論膽虛實寒熱生死逆順脈證之法第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d25
+    span:
+    - body
+    - 5953
+    - 7092
+  label: 論心臟虛實寒熱生死逆順脈證之法第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d26
+    span:
+    - body
+    - 7092
+    - 7478
+  label: 論小腸虛實寒熱生死逆順脈證之法第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d27
+    span:
+    - body
+    - 7478
+    - 8407
+  label: 論脾臟虛實寒熱生死逆順脈證之法第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d28
+    span:
+    - body
+    - 8407
+    - 8737
+  label: 論胃虛實寒熱生死逆順脈證之法第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d29
+    span:
+    - body
+    - 8737
+    - 9633
+  label: 論肺臟虛實寒熱生死逆順脈證之法第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er012_jc_001-d3d30
+    span:
+    - body
+    - 9633
+    - 9801
+  label: 論大腸虛實寒熱生死逆順脈證之法第二十九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 8412
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 948
+  label: 論腎臟虛實寒熱生死逆順脈證之法第三十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d3
+    span:
+    - body
+    - 948
+    - 1205
+  label: 論膀胱虛實寒熱生死逆順脈證之法第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d4
+    span:
+    - body
+    - 1205
+    - 1605
+  label: 論三焦虛實寒熱生死逆順脈證之法第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d5
+    span:
+    - body
+    - 1605
+    - 1915
+  label: 論痹第三十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d6
+    span:
+    - body
+    - 1915
+    - 2070
+  label: 論氣痹第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d7
+    span:
+    - body
+    - 2070
+    - 2202
+  label: 論血痹第三十五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d8
+    span:
+    - body
+    - 2202
+    - 2339
+  label: 論肉痹第三十六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d9
+    span:
+    - body
+    - 2339
+    - 2444
+  label: 論筋痹第三十七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d10
+    span:
+    - body
+    - 2444
+    - 2608
+  label: 論骨痹第三十八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d11
+    span:
+    - body
+    - 2608
+    - 2779
+  label: 論治中風偏枯之法第三十九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d12
+    span:
+    - body
+    - 2779
+    - 3238
+  label: 論五丁狀候第四十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d13
+    span:
+    - body
+    - 3238
+    - 3537
+  label: 論癰疽瘡腫第四十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d14
+    span:
+    - body
+    - 3537
+    - 4372
+  label: 論腳弱狀候不同第四十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d15
+    span:
+    - body
+    - 4372
+    - 4920
+  label: 論水腫脈證生死候第四十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d16
+    span:
+    - body
+    - 4920
+    - 5367
+  label: 論諸淋及小便不利第四十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d17
+    span:
+    - body
+    - 5367
+    - 5648
+  label: 論服餌得失第四十五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d18
+    span:
+    - body
+    - 5648
+    - 6130
+  label: 辨三痞論並方第四十六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4.d18d4
+    span:
+    - body
+    - 5732
+    - 5844
+  label: 辨上痞候並方
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4.d18d5
+    span:
+    - body
+    - 5844
+    - 5976
+  label: 辨中痞候並方
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4.d18d6
+    span:
+    - body
+    - 5976
+    - 6130
+  label: 辨下痞候並方
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d19
+    span:
+    - body
+    - 6130
+    - 6976
+  label: 論諸病治療交錯致於死候第四十七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d20
+    span:
+    - body
+    - 6976
+    - 7778
+  label: 論診雜病必死候第四十八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er012_jc_002-d4d21
+    span:
+    - body
+    - 7778
+    - 8412
+  label: 察聲色形證決死法第四十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er012_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5480
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er012_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 5480
+  label: 療諸病藥方六十道
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er012_jc_000-d6.h1s1
+    span:
+    - front
+    - 0
+    - 433
+  label: 附錄一序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er012_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 407
+  label: 附錄二跋
+  type: section
+  level: 1
+hash: sha256:bba32326abc4585754f4e4287de2b34b45655b4aa234293aa545109552612308
